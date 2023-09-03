@@ -68,12 +68,13 @@ int main() {
 }
 ```
 
-## Curriculum Vitae / Resume
-
-### English
-
-[English Resume (PDF)](https://github.com/nicolasgatto/nicolasgatto/blob/main/Nicolas%20Gatto%20Resume%20ENG.pdf)
-
-### Español
-
-[Currículum Español (PDF)](https://github.com/nicolasgatto/nicolasgatto/blob/main/Nicolas%20Gatto%20Resume%20ESP.pdf)
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; text-align: center;">
+    <h3>Curriculum in English</h3>
+    <a href="https://github.com/nicolasgatto/nicolasgatto/blob/main/Nicolas%20Gatto%20Resume%20ENG.pdf">Download English Curriculum (PDF)</a>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <h3>Currículum en Español</h3>
+    <a href="https://github.com/nicolasgatto/nicolasgatto/blob/main/Nicolas%20Gatto%20Resume%20ESP.pdf">Descargar Currículum en Español (PDF)</a>
+  </div>
+</div>
