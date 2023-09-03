@@ -67,3 +67,13 @@ int main() {
     return 0;
 }
 ```
+
+## Curriculum Vitae / Resume
+
+### English
+
+[English Resume (PDF)](https://github.com/nicolasgatto/nicolasgatto/blob/main/Nicolas%20Gatto%20Resume%20ENG.pdf)
+
+### Español
+
+[Currículum Español (PDF)](https://github.com/nicolasgatto/nicolasgatto/blob/main/Nicolas%20Gatto%20Resume%20ESP.pdf)
